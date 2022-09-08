@@ -5,9 +5,9 @@ Este es el proyecto final para el curso de programación del curso *"Programaci�
 
 **Integrantes del grupo:**
 
-    - Daniel Alarcón Sanchez    Correo: [Aquí(daniel.alarcons@urosario.ecu.co)]
-    - Mariana Sandoval Garzon    Correo: [Aquí(mariana.sandovalg@urosario.edu.co)]
-    - Manuel Cruz Garrote   Correo: [Aquí(manuels.cruz@urosario.edu.co)]
+    - Daniel Alarcón Sanchez    Correo: (daniel.alarcons@urosario.ecu.co)
+    - Mariana Sandoval Garzon    Correo: (mariana.sandovalg@urosario.edu.co)
+    - Manuel Cruz Garrote   Correo: (manuels.cruz@urosario.edu.co)
 
 
 ### Tabla de Contenido
