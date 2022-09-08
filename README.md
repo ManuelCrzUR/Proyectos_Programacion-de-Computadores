@@ -1,4 +1,4 @@
-# Titulo del Proyecto:  SEGUIMIENTO FINANCIERO PERSONAL
+# SEGUIMIENTO FINANCIERO PERSONAL
 
 ### Descripcion del Proyecto:
 Este es el proyecto final para el curso de programación del curso *"Programación de Computadores"* de la Universidad del Rosario, realizado por estudiantes de primer semestre del cohorte 2022-2, pertenecientes al pregrado **MACC**
