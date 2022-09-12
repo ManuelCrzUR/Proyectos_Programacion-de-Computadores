@@ -14,6 +14,8 @@ Este es el proyecto final para el curso de programaci√≥n del curso *"Programaci√
 
 ### Tabla de Contenido
 
+El ajedrez se ve la verga
+
 ### Instalar y Correr el Proyecto
 
 ### Como Usar el Proyecto
