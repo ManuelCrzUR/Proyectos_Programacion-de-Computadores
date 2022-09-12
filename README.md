@@ -13,11 +13,11 @@ Este es el proyecto final para el curso de programaci√≥n del curso *"Programaci√
 
 
 ### Tabla de Contenido
-Abecedario
+
 ### Instalar y Correr el Proyecto
 
 ### Como Usar el Proyecto
-
+El proyecto tiene como objetivo 
 ### Creditos
 
 ### Licencia
