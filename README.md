@@ -47,7 +47,7 @@ El proyecto usa ciertas librerias y Frameworks para contar con una correcta ejec
 
 En la terminal ejecutar el siguiente comando:
 
-    - `python3 -m pip install -U pygame --user`
+    python3 -m pip install -U pygame --user
 
 ### Como Usar el Proyecto
 El proyecto tiene como objetivo 
