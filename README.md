@@ -19,16 +19,37 @@ Este es el proyecto final para el curso de programaci처n del curso *"Programaci�
 
 ### Tabla de Contenido
 
-1. [Informaci처n general](#informaci처n-general)
+1. [Informaci처n General](#informaci처n-general)
+2. [Tecnologias Usadas](#tecnologias-usadas)
+3. [Instalar y Correr el Proyecto](#instalar-y-correr-el-proyecto)
+4. [Como Usar el Proyecto](#como-usar-el-proyecto)
+5. [FAQS](#faqs)
+6. [Creditos](#creditos)
+7. [Licencia](#licencia)
 
 ### Informaci처n General
 
+El proyecto cuenta con XXXX juegos, los cuales pueden ser administrados desde una interfaz amigable (creada con la teminal de comandos o mediante la libreria XXXX)
+
+**Proyectos Incluidos:**
+- Tres en linea
+- Ajedres para dos jugadores
+
 ### Tecnologias Usadas
+
+- [Pygame | Documentation](#pygame.org/docs/):
 
 ### Instalar y Correr el Proyecto
 
+**Instalar Pygame en Linux:**
+En la terminal ejecutar el siguiente comando:
+-  'python3 -m pip install -U pygame --user'
+
 ### Como Usar el Proyecto
 El proyecto tiene como objetivo 
+
+### FAQS
+
 ### Creditos
 
 ### Licencia
