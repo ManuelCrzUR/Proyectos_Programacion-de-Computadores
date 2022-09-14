@@ -41,6 +41,8 @@ El proyecto cuenta con XXXX juegos, los cuales pueden ser administrados desde un
 
 ### Instalar y Correr el Proyecto
 
+El proyecto usa ciertas librerias y Frameworks para contar con una correcta ejecución, a continuación se expresa como hacer una instalación y verificación de cada una de ellas.
+
 **Instalar Pygame en Linux:**
 
 En la terminal ejecutar el siguiente comando:
