@@ -37,7 +37,7 @@ El proyecto cuenta con XXXX juegos, los cuales pueden ser administrados desde un
 
 ### Tecnologias Usadas
 
-- [Pygame | Documentation](#pygame.org/docs/):
+- [Pygame | Documentation](https://www.pygame.org/docs/):
 
 ### Instalar y Correr el Proyecto
 
