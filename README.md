@@ -42,6 +42,7 @@ El proyecto cuenta con XXXX juegos, los cuales pueden ser administrados desde un
 ### Instalar y Correr el Proyecto
 
 **Instalar Pygame en Linux:**
+
 En la terminal ejecutar el siguiente comando:
     'python3 -m pip install -U pygame --user'
 
