@@ -39,14 +39,14 @@ def abrir_ventana():
     screen.blit(initiating_window, (0, 0))
     
     pygame.display.update()
-    time.sleep(3)
+    time.sleep(5)
     screen.fill(white)
     
     pygame.draw.line(screen, line_color, (width / 3, 0), (width / 3, height), 7)
     pygame.draw.line(screen, line_color, (width / 3 * 2, 0), (width / 3 * 2, height), 7)
     
     pygame.draw.line(screen, line_color, (0, height / 3,), (width, height / 3), 7)
-    pygame.draw.line(screen, line_color, (0, height / 3 * 2,), (width, height / 3), 7)
+    pygame.draw.line(screen, line_color, (0, height / 3 * 2,), (width, height / 3 * 2), 7)
     draw_status()
     
 def draw_status():
@@ -60,5 +60,16 @@ def draw_status():
         
     if draw:
         message = "Es un empate !"
+        
+    # Dando una fuente a un objeto, añadiendo color y tamaño
+    font = pygame.font.Font(None, 30)
+    
+    text = font.render(message, 1, (255, 255, 255))
+    
+    screen.fill((0, 0, 0), (0, 400, 500, 100))
+    text_rect = text.get_rect(center = (width / 2, 500 - 50))
+    screen.blit(text, text_rect)
+    pygame.display.update()
+    
     
 abrir_ventana()
